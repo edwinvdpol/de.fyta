@@ -13,5 +13,8 @@
   },
   "1.1.0": {
     "en": "Improved stability and added unique sensor ID setting."
+  },
+  "1.1.1": {
+    "en": "Maintenance release."
   }
 }
