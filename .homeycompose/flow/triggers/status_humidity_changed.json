@@ -1,0 +1,21 @@
+{
+  "title": {
+    "en": "The humidity state changed",
+    "nl": "De luchtvochtigheid status is veranderd"
+  },
+  "hint": {
+    "en": "This flowcard triggers when the humidity state was changed.",
+    "nl": "Deze flowcard wordt geactiveerd wanneer de luchtvochtigheid status veranderd werd."
+  },
+  "platforms": [
+    "local",
+    "cloud"
+  ],
+  "args": [
+    {
+      "type": "device",
+      "name": "device",
+      "filter": "driver_id=beam&capabilities=status_humidity"
+    }
+  ]
+}

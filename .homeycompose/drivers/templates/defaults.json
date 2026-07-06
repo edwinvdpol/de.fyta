@@ -18,12 +18,14 @@
     "measure_moisture",
     "measure_light",
     "measure_ph",
+    "measure_humidity",
     "status_temperature",
     "status_nutrients",
     "status_salinity",
     "status_moisture",
     "status_light",
-    "status_ph"
+    "status_ph",
+    "status_humidity"
   ],
   "energy": {
     "batteries": [
